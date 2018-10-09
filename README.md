@@ -21,6 +21,7 @@ This module provides a **declarative way** to bind events to a global `EventTarg
 It's using the React lifecycle to bind and unbind at the right time.
 
 ## Usage
+[CodeSandBox Demo](https://codesandbox.io/s/6jrp9xkjmn)
 
 ```js
 import React, {Component} from 'react';
